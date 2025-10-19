@@ -1,10 +1,10 @@
-0 Farm Cultivator
+0 Farm Cultiva...
 1 Farm Harrow
 2 Farm Plough
 3 Farm Rake
-4 Farm Rotivator
+4 Farm Rotivat...
 5 Farm  Seeder
 6 Farm Truck
-7 Farm Sprinkler
-8 Farm Harvester
+7 Farm Sprinkl...
+8 Farm Harvest...
 9 Farm Tractor
